@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1654780060
-ModificationTime: 1743599473
+ModificationTime: 1743600700
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -155,12 +155,13 @@ EndShort
 LangName: 1033 "" "" "" "SignPinyin-Italic" "" "Version 0.5" "" "" "" "" "" "" "https://space.bilibili.com/5160813"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 51 17 11
+WinInfo: 0 17 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114128 99
