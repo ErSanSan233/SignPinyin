@@ -1,2 +1,5 @@
-# sign-pinyin-font
-一款中文手指字母字体
+# SignPinyin
+
+SignPinyin是一款汉语手指字母字体。
+
+可惜的是，它的
